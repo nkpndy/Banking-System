@@ -278,7 +278,7 @@ void display_all()
 	inFile.open("account.dat", ios::binary);
 	if (!inFile)
 	{
-		cout << "File could not be open !! Press any Key...";
+		cout << "File Press any Key...";
 		return;
 	}
 	cout << "\n\n\t\tACCOUNT HOLDER LIST\n\n";
